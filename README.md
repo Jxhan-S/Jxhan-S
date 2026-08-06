@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jxhan_S 👋</h1>
+<h1 align="center">Hola, soy Johan Stiven 👋</h1>
 
 <p align="center">
   Desarrollador Web · Estudiante · Apasionado por el código limpio y el aprendizaje continuo
